@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashel Kasamala  
-### Company name: *AshTech - Empowering Ideas Through Technology*  
+## Company name: *AshTech - Empowering Ideas Through Technology*  
 ### Electrical & Electronics Engineer • Programmer • Python Developer
 
 I focus on building practical and human-centered engineering and software solutions.  
